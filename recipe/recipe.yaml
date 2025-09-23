@@ -1,5 +1,5 @@
 context:
-  version: 1.3.2
+  version: "1.3.3"
 
 package:
   name: csvprintf
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/archiecobbs/csvprintf/archive/${{ version }}.tar.gz
-  sha256: df034c676b512081f92727f4f36ad38e4d5d91d20a4a9abd52f10885b6c475e7
+  sha256: 3f90068fe61f66389fc097e0125776181615acd57cd90487076914ef310e3e6a
 
 build:
   number: 0
